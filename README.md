@@ -1,7 +1,4 @@
-# Music-Store-Data-Analysis
-
-
-## Project: Music Store Data Analysis
+# Music Store Data Analysis
 
 ## Objective: 
 Conducted a comprehensive data analysis of a Music Store's sales and customer data using SQL, Excel, and PowerPoint. The goal was to uncover actionable insights to support business decision-making and strategic planning.
