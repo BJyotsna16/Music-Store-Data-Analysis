@@ -23,4 +23,5 @@ PowerPoint: Summarized findings in a professional presentation, incorporating vi
 ## Results:
 I delivered insights that highlighted the USA as the primary market, Prague as the top-performing city, and specific customer segments driving revenue. My analysis informed targeted marketing strategies, regional promotions, and customer retention programs.
 
-## Skills: SQL, data visualization, Excel, PowerPoint, business analytics, and presentation design.
+## Skills: 
+SQL, data visualization, Excel, PowerPoint, business analytics, and presentation design.
